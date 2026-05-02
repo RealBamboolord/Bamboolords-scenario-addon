@@ -1,0 +1,329 @@
+[
+  //template
+	{
+		"name": ".",
+		"leaderName": ".",
+		"adjective": ["."],
+		"startBias": ["."],
+		//"preferredVictoryType":"",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ".",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [181, 232, 232],
+		"innerColor": [68,142,249],
+		//"favoredReligion": "",
+		"uniqueName": ".",
+		"uniques": ["."],
+		"cities": ["","","","","","","","","",""],
+        "spyNames": ["",]
+    },
+
+
+
+
+  //civs
+
+  //The following were nabbed from Project Allcivs, adjusted by me
+{
+	"name": "Estonia",
+	"adjective": ["Estonian"],
+	"leaderName": "Konstantin Päts",
+	"preferredVictoryType": "Scientific",
+	"favoredReligion": "Christianity",
+	"startBias": ["Grassland"],
+
+	"declaringWar": "Estonia's might shall crush you like a wave upon the shores of the Baltic.",
+	"attacked": "Our people stand united in social solidarity against your aggression. Your invasion will crumble before our indomitable spirit!",
+	"defeated": "The era of silence has fallen upon Estonia.",
+	"introduction": "I am Konstantin Päts, the undisputed leader of the glorious Estonian state. Bow before the might of our corporatist institutions and bask in the glory of our economic prosperity!",
+
+	"neutralHello": "Greetings, fellow leader.",
+	"hateHello": "Your presence is an affront to our national dignity.",
+
+	"tradeRequest": "Estonia's bounty overflows with the fruits of our labor. Surely, you desire a taste of our prosperity?",
+
+	"innerColor": [23, 24, 47],
+	"outerColor": [108, 63, 173],
+
+	"uniqueName": "The Digital State",
+	"uniques": ["[+1 Happiness] per [5] social policies adopted <starting from the [Information era]>", "[+34]% Great Person generation [in all cities] <starting from the [Information era]>", "[+25]% spy effectiveness [in all cities] <after discovering [Computers]>", "Gain a free [Great Firewall] [in capital] <upon discovering [Computers] technology>"],
+
+	"spyNames": ["Aivar", "Andres", "Mark", "Robin", "Oskar", "Martin", "Sofia", "Mia", "Eva", "Kadri"],
+	"cities": ["Tallinn", "Tartu", "Narva", "Pärnu", "Kohtla-Järve", "Viljandi", "Rakvere", "Maardu", "Sillamäe", "Kuressaare", "Võru", "Valga", "Haapsalu", "Jõhvi", "Keila", "Paide", "Elva", "Saue", "Kiviõli", "Tapa", "Põlva", "Türi", "Rapla", "Jõgeva", "Kunda"],
+},
+{
+	"name": "Latvia",
+	"adjective": ["Latvian"],
+	"leaderName": "Karlis Ulmanis",
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Christianity",
+	"startBias": ["Grassland"],
+
+	"declaringWar": "Our brave farmers will trade their plows for swords, and we shall reap a harvest of victory on the battlefield!",
+	"attacked": "Invaders dare to trespass on Latvian soil?",
+	"defeated": "Our land shall not find you welcome here!",
+	"introduction": "I am Kārlis Ulmanis, the chosen leader of the Latvian people. Our nation may be small, but our hearts are as vast as the Baltic Sea. Treat us with respect, or face the consequences.",
+
+	"neutralHello": "May our nations coexist like the diverse forests of Latvia – separately rooted, yet part of the same grand landscape.",
+	"hateHello": "You are not welcome on our lands.",
+
+	"tradeRequest": "I offer you the finest goods our hardworking farmers and craftsmen can produce.",
+
+	"innerColor": [226, 241, 175],
+	"outerColor": [194, 30, 86],
+
+	"uniqueName": "Livland Vitality",
+	"uniques": [
+		"[+1 Culture, +1 Happiness] [in non-annexed cities] <in cities with at least [1] [Specialists]>",
+		"[+1 Culture, +1 Happiness, +1 Production] [in non-annexed cities] <in cities with at least [3] [Specialists]>",
+		"[+1 Culture, +1 Happiness, +1 Science] [in non-annexed cities] <in cities with at least [5] [Specialists]>",
+		"[+5] HP when healing <while the empire is happy>"],
+
+	"spyNames": ["Artjoms", "Maksims", "Jānis", "Sofija", "Emīlija", "Gustavs", "Roberts", "Alise", "Marks", "Anna"],
+	"cities": ["Riga", "Daugavpils", "Liepāja", "Jelgava", "Jūrmala", "Ventspils", "Rēzekne", "Valmiera", "Ogre", "Jēkabpils", "Tukums", "Cēsis", "Salaspils", "Kuldīga", "Saldus", "Olaine", "Sigulda", "Dobele", "Talsi", "Līvāni", "Bauska", "Gulbene", "Alūksne", "Krāslava", "Aizkraukle"],
+},
+{
+	"name": "Belarus",
+	"adjective": ["Belarusian"],
+	"leaderName": "Vseslav II",
+	"preferredVictoryType": "Scientific",
+	"favoredReligion": "Christianity",
+	"startBias": ["Grassland"],
+
+	"declaringWar": "The time for waiting is over; now the wolf must hunt!",
+	"attacked": "You have awakened the beast! Prepare to face the full fury of the Werewolf King and the armies of Belarus!",
+	"defeated": "As the wolf returns to the earth, so too shall I. But my soul will lurk, haunting your dreams for all eternity.",
+	"introduction": "I am Vseslav II, the Werewolf of Belarus. My realm is bound by the ancient magic of the land and protected by me... ",
+
+	"neutralHello": "Let us speak as one kingdom to another, but remember, I can hear the bells of Polotsk from afar, and my patience is limited.",
+	"hateHello": "Your scent is that of an enemy. Be cautious, for the wolf can strike at any moment...",
+
+	"tradeRequest": "The wolf's senses are keen, and betrayal will not be tolerated.",
+
+	"innerColor": [42, 59, 35],
+	"outerColor": [168, 29, 71],
+
+	"uniqueName": "Men of the Marshes",
+	"uniques": ["[Land] units gain the [Shock I] promotion","[+2 Food, +1 Gold] from [Marsh] tiles [in all cities]"],
+
+	"spyNames": ["Alaksandra", "Aliaksandr", "Anastasia", "Dzmitry", "Halina", "Iryna", "Mikalaj", "Natallia", "Siarhiej", "Viktar"],
+	"cities": ["Minsk", "Homieĺ", "Viciebsk", "Hrodna", "Mahiloǔ", "Brest", "Babrujsk", "Baranavičy", "Barysaǔ", "Pinsk", "Orsha", "Mazyr", "Salihorsk", "Novopolotsk", "Lida", "Maladzyechna", "Kobryn", "Byaroza", "Luninyets", "Ivatsevichy", "Horki", "Asipovichy", "Krychaw", "Klimavichy", "Bykhaw"],
+},
+{
+	"name": "Croatia",
+	"adjective": ["Croat"],
+	"leaderName": "Tomislav I",
+	"preferredVictoryType": "Domination",
+	"favoredReligion": "Christianity",
+	"startBias": ["Coast"],
+
+	"declaringWar": "Croatia's might shall be felt across your lands. You shall fall to me.",
+	"attacked": "You dare assault the realm of Tomislav?",
+	"defeated": "The heart of Poland weeps, and our White Eagle lies trampled. Yet know this, conquering fiends: the embers of our pride still glow. One day, from the ashes, we shall rise anew and reclaim that which was ours.",
+	"introduction": "I am Tomislav, the first King of the Croats. My rule has united my people and forged alliances that have made I a formidable force. Don't take me lightly, foreign ruler.",
+
+	"neutralHello": "What do you bring court of Croatia?",
+	"hateHello": "Speak quickly and be gone from my sight, lest you face the consequences of trying my patience.",
+
+	"tradeRequest": "Croatia's bounty is great, and our craftsmen are skilled.",
+
+	"innerColor": [78, 205, 196],
+	"outerColor": [137, 2, 62],
+
+	"uniqueName": "Makarska Riviera",
+	"uniques": ["Comment [[+1 Gold] from all Maritime buildings]",
+	"Comment [Defensive Buildings Provide +5% [Production] to military unit construction]",
+
+	"[+1 Gold] [in all cities] <with a garrison>",
+
+	"[+5]% Production when constructing [Military] units [in all cities] <in cities with a [Walls]> <hidden from users>",
+	"[+5]% Production when constructing [Military] units [in all cities] <in cities with a [Castle]> <hidden from users>",
+	"[+5]% Production when constructing [Military] units [in all cities] <in cities with a [Arsenal]> <hidden from users>",
+	"[+5]% Production when constructing [Military] units [in all cities] <in cities with a [Military Base]> <hidden from users>",
+
+	"[+1 Gold] from all [Lighthouse] buildings <hidden from users>",
+	"[+1 Gold] from all [Harbor] buildings <hidden from users>",
+	"[+1 Gold] from all [Seaport] buildings <hidden from users>",
+	"[+1 Gold] from all [The Great Lighthouse] buildings <hidden from users>",
+	"[+1 Gold] from all [Colossus] buildings <hidden from users>",
+	"[+1 Gold] from all [Sydney Opera House] buildings <hidden from users>"],
+
+	"spyNames": ["Ivan", "Marija", "Ana", "Josip", "Marko", "Ivana", "Stjepan", "Tomislav", "Milan", "Luka"],
+	"cities": ["Zagreb", "Split", "Rijeka", "Osijek", "Zadar", "Pula", "Slavonski Brod", "Karlovac", "Varaždin", "Šibenik", "Velika Gorica", "Dubrovnik", "Sisak", "Vinkovci", "Vukovar", "Bjelovar", "Koprivnica", "Požega", "Đakovo", "Čakovec", "Virovitica", "Samobor", "Rovinj", "Makarska", "Sinj"],
+},
+{
+	"name": "Albania",
+	"adjective": ["Albanian"],
+	"leaderName": "Skanderbeg",
+	"startBias": ["Hill"],
+	"preferredVictoryType": "Domination",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "By the blood of our ancestors and the fire of our mountains, I, Skanderbeg, declare war upon your nation! Your people will soon learn the wrath of the Albanian eagle!",
+	"attacked": "The sons of Albania will descend upon your armies like a tempest, and your people will know the fury of the Balkan league!",
+	"defeated":"The eagle has fallen, and the land of our fathers lies in ruins.",
+	"introduction": "Greetings. I am Skanderbeg, lord of the Accursed Mountains and defender of our sacred lands. May our meeting be a sign of prosperous times to come.",
+
+	"neutralHello": "May the sun shine brightly upon our meeting, foreign leader.",
+	"hateHello": "You are as welcome as a viper in our midst, treacherous one.",
+
+	"tradeRequest": "Let us exchange the rich bounty of our lands, noble leader. So that our people may prosper and our friendship be sealed.",
+
+	"innerColor": [16, 16, 16],
+	"outerColor": [252, 22, 22],
+
+	"uniqueName": "League of Lezhë",
+	"uniques": [
+	"[+20]% Production when constructing [Walls] buildings [in all cities]",
+	"Gain [10] Influence with a [Military] gift to a City-State",
+	"Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
+
+	"spyNames": ["Erjon", "Bujar", "Driton", "Luan", "Kreshnik", "Flamur", "Dren", "Agron", "Fatmir", "Alban"],
+	"cities": ["Tirana", "Durrës", "Vlorë", "Elbasan", "Shkodër", "Korçë", "Fier", "Berat", "Lushnjë", "Pogradec", "Lezhë", "Sarandë", "Laç", "Gjirokastër", "Patos", "Burrel", "Rrogozhinë", "Kavajë", "Cërrik", "Memaliaj Fshat", "Shijak", "Librazhd", "Peqin", "Bulqizë", "Gramsh", "Poliçan", "Tepelenë", "Rrëshen"],
+},
+{
+	"name": "Serbia",
+	"adjective": ["Serbian"],
+	"leaderName": "Stefan Dusan",
+	"startBias": ["Hill"],
+	"preferredVictoryType": "Domination",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "By the sword of Saint Sava, I shall unleash the wrath of the Serbian people upon your lands! Prepare your armies, for the Emperor of the Serbs comes to expand his great empire!",
+	"attacked": "Summon your knights, your men-at-arms, and your archers, for we shall show you the true meaning of Serbian valor!",
+	"defeated":"Cursed be the day that I, Stefan Dusan, Emperor of the Serbs, laid eyes on your treacherous face. For you were not human but the devil.",
+	"introduction": "I am Stefan Dusan, Emperor of the Serbs, ruler of the land of the brave and the free. Show your loyalty and perhaps I shall spare thee.",
+
+	"neutralHello": "Zdravo, foreign leader. Our paths cross once again.",
+	"hateHello": "Begone, before I decide to crush you beneath my heel!",
+
+	"tradeRequest": "What say you, shall we shake hands and seal our friendship?",
+
+	"innerColor": [139, 37, 103],
+	"outerColor": [221, 215, 141],
+
+	"uniqueName": "Imperial Divellion",
+	"uniques": ["[+50]% [Happiness] [in annexed cities] <with a garrison>", "[+50]% [Happiness] [in puppeted cities] <with a garrison>", "Gain a free [Courthouse] [in annexed cities] <upon entering a Golden Age>"],
+
+	"spyNames": ["Dragan", "Zoran", "Milan", "Aleksandar", "Jelena", "Milica", "Luka", "Goran", "Vladimir", "Ana"],
+	"cities": ["Belgrade","Novi Sad","Nis","Kragujevac","Subotica","Zrenjanin","Pancevo","Cacak","Smederevo","Leskovac","Vranje","Urosevac","Kraljevo","Jagodina","Ruma","Sabac","Valjevo","Vrsac","Sombor","Bor","Kikinda","Cuprija","Backa Palanka","Loznica","Apatin","Uzice","Pirot","Pozarevac","Zajecar","Sremska Mitrovica"],
+},
+
+
+
+  //Not from Allciv, part of the stuff copied from Cameroon of that mod though because I am lazy
+{
+	"name": "Libya",
+	"adjective": ["Libyan"],
+	"leaderName": "Some Libyan Guy",
+	"startBias": ["Desert"],
+	"preferredVictoryType": "Cultural",
+	"favoredReligion": "Christianity",
+
+	"declaringWar": "War is upon us.",
+	"attacked": "You must be joking.",
+	"defeated": "Guess you weren't joking.",
+	"introduction": "Hello There.",
+
+	"neutralHello": "Greetings, friend of Libya.",
+	"hateHello": "Cursed be your ambitions that seek to fracture the heart of Libya.",
+
+	"tradeRequest": "Let me know if you actually care about these texts. Dm @bamboolord on Discord or comment on any repo of RealBamboolord on Github.",
+
+	"innerColor": [230, 225, 143],
+	"outerColor": [24, 114, 40],
+
+	"uniqueName": "River Stuff because Tripoli has a river in the scenario",
+	"uniques": ["[+1 Food] in cities on [River] tiles", "[+2 Science] in cities on [River] tiles <after discovering [Biology]>"],
+
+	"spyNames": ["Paul", "Emmanuel", "Jean", "Marie", "David", "James", "Sarah", "Claire", "Daniel", "Ibrahim"],
+	"cities": ["Tripoli", "Something", "Ugh another one", "have one more I guess", "Does any normal person know any other cities in Libya","I mispell Libya as Lybia all the time btw"],
+},
+
+
+
+
+
+  //City States, not from Allciv
+	{
+		"name": "Slovenia",
+		"adjective": ["Slovenian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"outerColor": [25, 205, 196],
+		"innerColor": [222, 15, 0],
+		"cities": ["Ljubljana"]
+	},
+	{
+		"name": "Bosnia & Herzegovina",
+		"adjective": ["Bosnian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"outerColor": [158, 120, 143],
+		"innerColor": [255, 200, 0],
+		"cities": ["Sarajevo"]
+	},
+	{
+		"name": "Montenegro",
+		"adjective": ["Montenegran"],
+		"cityStateType": "Militaristic",
+	  "declaringWar": "As the eagles of Lovćen soar into the skies, so too shall our warriors descend upon your lands! You have disturbed the tranquility of our mountains, and now you shall face the thunder of our vengeance!",
+	  "attacked": "You have set fire to the powder keg of the Balkans, and now you shall face the inferno of our wrath!",
+	  "defeated":"Our mountains lie shattered, our people lie broken. The eagles of Lovćen have fallen silent, and the glory of Montenegro has been reduced to ashes.",
+	  "innerColor": [80, 49, 49],
+	  "outerColor": [232, 176, 213],
+    
+	  "uniques": ["[+3 Production, +1 Culture] from every [Mountain] <in tiles without [Natural Wonder]>", "[+15]% Strength <for [Land] units> <in [{Friendly Land} {Hill}] tiles>"],
+		"cities": ["Podgorica"]
+	},
+  {
+	  "name": "North Macedonia",
+	  "adjective": ["Macedonian"],
+		"cityStateType": "Militaristic",
+
+	  "declaringWar": "From the Hellespont to the Indus, all have bowed before me. Now, it's your turn. My Cavalry rides for your lands!",
+	  "attacked": "Ha! Another would-be Darius? I've conquered empires vaster than yours before breakfast. Come, let's see if you fight better than the Persians!",
+	  "defeated": "Is this how the son of Zeus falls? No... Alexander's legacy is etched in the very earth I've trod. My empire may crumble, but my legend will outlast your petty victory.",
+	
+	  "outerColor": [79, 77, 77],
+	  "innerColor": [232, 172, 5],
+
+	  "uniques": [
+      "Comment [Upon capturing a city, receive 3 times its [Culture], [Science], [Faith] and [Gold] production immediately]",
+	    "Upon capturing a city, receive [3] times its [Science] production as [Science] immediately <hidden from users>",
+	    "Upon capturing a city, receive [3] times its [Culture] production as [Culture] immediately <hidden from users>",
+	    "Upon capturing a city, receive [3] times its [Faith] production as [Faith] immediately <hidden from users>",
+	    "Upon capturing a city, receive [3] times its [Gold] production as [Gold] immediately <hidden from users>",
+      ],
+	  "cities": ["Skopje"],
+  },
+  {
+			"name": "Cyprus",
+			"adjective": ["Cypriot"],
+		  "cityStateType": "Cultured",
+			"declaringWar": "I will not let my people be divided!",
+			"attacked": "Our walls have more integrity then what you will ever have! ",
+			"defeated": "You have divided a once united culture. May the pain of my people haunt you for the rest of time.",
+			"outerColor": [247, 243, 227],
+			"innerColor": [174, 142, 28],
+
+			"cities": ["Nicosia","Limassol"]
+	},
+]

@@ -328,4 +328,16 @@
 
 			"cities": ["Nicosia","Limassol"]
 	},
+	{
+			"name": "Jordan",
+			"adjective": ["Jordanian"],
+		  	"cityStateType": "Cultured",
+			"declaringWar": "!",
+			"attacked": "?",
+			"defeated": "x",
+			"outerColor": [78, 136, 130],
+			"innerColor": [255, 0, 43],
+
+			"cities": ["Amman"]
+	},
 ]
